@@ -1,1 +1,2 @@
 CSC6301 Repository contains 2 java programs. The first program takes user input and stores them into a Linked List and the sorts the integers and prints the sorted integers. The second program is a maintenece on the first where instead of the user input being stored and stored in a linked list the integers are then stored and sorted in a stack and the sorted integers are printed.
+Within each program there is all the necessary documentation on how the code is to be run via the terminal if the code is downloaded to your machine.
