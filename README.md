@@ -1,2 +1,40 @@
-CSC6301 Repository contains 2 java programs. The first program takes user input and stores them into a Linked List and the sorts the integers and prints the sorted integers. The second program is a maintenece on the first where instead of the user input being stored and stored in a linked list the integers are then stored and sorted in a stack and the sorted integers are printed.
-Within each program there is all the necessary documentation on how the code is to be run via the terminal if the code is downloaded to your machine.
+# Week 4 & Week 5 Projects: Sorted Linked List & Sorted Stack
+
+---
+
+# Week 4 Project: Sorted Linked List
+
+## Description
+This Java program reads a list of integers from standard input, stores them in a **LinkedList**, and sorts them in ascending order using Java’s **Collections Framework**.
+
+## Features
+- Uses **LinkedList** to store integers dynamically.
+- **Reuses** Java’s built-in `Scanner` for input handling.
+- Uses **Collections Framework** for efficient sorting.
+- Implements **best practices** in software development.
+
+## How to Compile and Run
+
+### **Compilation**
+```sh
+javac SortedLinkedList.java
+```
+# Week 5 Project: Sorted Stack Program
+
+## Description
+This Java program reads a list of integers from standard input, stores them in a **Stack**, and sorts them in ascending order.  
+It is a **maintenance update** from **Project #4**, adapting the previous **LinkedList** implementation to use a **Stack** while **reusing existing logic** rather than rewriting from scratch.
+
+## Features
+- Uses **Stack** to store integers instead of LinkedList.
+- **Reuses** Java’s built-in `Scanner` for input handling.
+- Uses **Collections Framework** for efficient sorting.
+- **Follows best practices** in software maintenance and code reuse.
+
+## How to Compile and Run
+
+### **Compilation**
+```sh
+javac SortedStack.java
+
+
